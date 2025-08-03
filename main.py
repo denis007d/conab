@@ -117,10 +117,9 @@ def determinar_tipo_cargo(nome_cargo):
     nome_upper = nome_cargo.upper()
     if "ANALISTA" in nome_upper and "TECNOLOGIA DA INFORMAÇÃO" in nome_upper:
         return "ANALISTA_TI"
-    elif "ASSISTENTE" in nome_upper and "TI" in nome_upper:
+    elif "ASSISTENTE" in nome_upper:
+        return "ASSISTENTE_COMUM" elif "ASSISTENTE" in nome_upper and "TI" in nome_upper:
         return "ASSISTENTE_TI"
-    elif "ASSISTENTE" in nome_upper and "ADMINISTRATIVO" in nome_upper:
-        return "ASSISTENTE_COMUM"
     else:
         return "ANALISTA_COMUM"
 
@@ -400,4 +399,5 @@ elif pagina == "Classificação":
             st.write("Nenhum candidato encontrado com os filtros aplicados.")
     else:
         st.write("Nenhum candidato cadastrado ainda.")
+
 
