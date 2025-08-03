@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import json
 from datetime import datetime
+import re
+from unidecode import unidecode
 
 # Configuração da página
 st.set_page_config(
@@ -113,17 +115,17 @@ def candidato_existe(nome, candidatos):
     return any(c['nome'].lower() == nome.lower() for c in candidatos)
 
 # Função para determinar tipo de cargo
-def determinar_tipo_cargo(nome_cargo):
-    nome_upper = nome_cargo.upper()
-    if "ANALISTA" in nome_upper and "TECNOLOGIA DA INFORMAÇÃO" in nome_upper:
+def determinar_tipo_cargo(nome_cargo: str) -> str:
+    nome_normalizado = unidecode(nome_cargo.upper().replace(".", "").strip())
+
+    if "ANALISTA" in nome_normalizado and "TECNOLOGIA DA INFORMACAO" in nome_normalizado:
         return "ANALISTA_TI"
-    elif "ASSISTENTE" in nome_upper and "TI" in nome_upper:
+    elif "ASSISTENTE" in nome_normalizado and (re.search(r'\bTI\b', nome_normalizado) or "TECNOLOGIA DA INFORMACAO" in nome_normalizado):
         return "ASSISTENTE_TI"
-    elif "ASSISTENTE" in nome_upper:
+    elif "ASSISTENTE" in nome_normalizado:
         return "ASSISTENTE_COMUM"
     else:
         return "ANALISTA_COMUM"
-
 # Função para calcular nota total SEM pesos
 def calcular_nota_total(notas, cargo_nome):
     total = 0
