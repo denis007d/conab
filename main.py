@@ -118,7 +118,8 @@ def determinar_tipo_cargo(nome_cargo):
     if "ANALISTA" in nome_upper and "TECNOLOGIA DA INFORMAÇÃO" in nome_upper:
         return "ANALISTA_TI"
     elif "ASSISTENTE" in nome_upper:
-        return "ASSISTENTE_COMUM" elif "ASSISTENTE" in nome_upper and "TI" in nome_upper:
+        return "ASSISTENTE_COMUM"
+    elif "ASSISTENTE" in nome_upper and "TI" in nome_upper:
         return "ASSISTENTE_TI"
     else:
         return "ANALISTA_COMUM"
