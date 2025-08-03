@@ -1,7 +1,7 @@
 {
     "001": {
         "codigo": "001",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(RIO BRANCO - AC)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (RIO BRANCO - AC)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -335,7 +335,7 @@
     },
     "002": {
         "codigo": "002",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(RIO BRANCO - AC)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (RIO BRANCO - AC)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -669,7 +669,7 @@
     },
     "003": {
         "codigo": "003",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(RIO BRANCO - AC)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (RIO BRANCO - AC)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -1003,7 +1003,7 @@
     },
     "004": {
         "codigo": "004",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(MACEIÓ - AL)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (MACEIÓ - AL)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -1337,7 +1337,7 @@
     },
     "005": {
         "codigo": "005",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(MACEIÓ - AL)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (MACEIÓ - AL)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -1671,7 +1671,7 @@
     },
     "006": {
         "codigo": "006",
-        "nome": "ANALISTA - ECONOMIA(MACEIÓ - AL)",
+        "nome": "ANALISTA - ECONOMIA (MACEIÓ - AL)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -2005,7 +2005,7 @@
     },
     "007": {
         "codigo": "007",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(MACEIÓ - AL)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (MACEIÓ - AL)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -2339,7 +2339,7 @@
     },
     "008": {
         "codigo": "008",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(MACAPÁ - AP)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (MACAPÁ - AP)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -2673,7 +2673,7 @@
     },
     "009": {
         "codigo": "009",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(MACAPÁ - AP)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (MACAPÁ - AP)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -3007,7 +3007,7 @@
     },
     "010": {
         "codigo": "010",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(MACAPÁ - AP)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (MACAPÁ - AP)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -3341,7 +3341,7 @@
     },
     "011": {
         "codigo": "011",
-        "nome": "ANALISTA - GESTÃO DO AGRONEGÓCIO(MACAPÁ - AP)",
+        "nome": "ANALISTA - GESTÃO DO AGRONEGÓCIO (MACAPÁ - AP)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -3675,7 +3675,7 @@
     },
     "012": {
         "codigo": "012",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(MANAUS - AM)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (MANAUS - AM)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -4009,7 +4009,7 @@
     },
     "013": {
         "codigo": "013",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(MANAUS - AM)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (MANAUS - AM)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -4343,7 +4343,7 @@
     },
     "014": {
         "codigo": "014",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(SALVADOR - BA)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (SALVADOR - BA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -4677,7 +4677,7 @@
     },
     "015": {
         "codigo": "015",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(SALVADOR - BA)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (SALVADOR - BA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -5011,7 +5011,7 @@
     },
     "016": {
         "codigo": "016",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(FORTALEZA - CE)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (FORTALEZA - CE)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -5345,7 +5345,7 @@
     },
     "017": {
         "codigo": "017",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(FORTALEZA - CE)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (FORTALEZA - CE)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -5679,7 +5679,7 @@
     },
     "018": {
         "codigo": "018",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(FORTALEZA - CE)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (FORTALEZA - CE)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -6013,7 +6013,7 @@
     },
     "019": {
         "codigo": "019",
-        "nome": "ANALISTA - ENGENHARIA CIVIL(FORTALEZA - CE)",
+        "nome": "ANALISTA - ENGENHARIA CIVIL (FORTALEZA - CE)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -6347,7 +6347,7 @@
     },
     "020": {
         "codigo": "020",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -6681,7 +6681,7 @@
     },
     "021": {
         "codigo": "021",
-        "nome": "ANALISTA - ARQUITETURA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ARQUITETURA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -7015,7 +7015,7 @@
     },
     "022": {
         "codigo": "022",
-        "nome": "ANALISTA - ARQUIVOLOGIA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ARQUIVOLOGIA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -7349,7 +7349,7 @@
     },
     "023": {
         "codigo": "023",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(BRASÍLIA - DF)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -7683,7 +7683,7 @@
     },
     "024": {
         "codigo": "024",
-        "nome": "ANALISTA - DIREITO(BRASÍLIA - DF)",
+        "nome": "ANALISTA - DIREITO (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -8017,7 +8017,7 @@
     },
     "025": {
         "codigo": "025",
-        "nome": "ANALISTA - ECONOMIA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ECONOMIA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -8351,7 +8351,7 @@
     },
     "026": {
         "codigo": "026",
-        "nome": "ANALISTA - ENGENHARIA AGRÍCOLA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ENGENHARIA AGRÍCOLA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -8685,7 +8685,7 @@
     },
     "027": {
         "codigo": "027",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -9019,7 +9019,7 @@
     },
     "028": {
         "codigo": "028",
-        "nome": "ANALISTA - ENGENHARIA CIVIL(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ENGENHARIA CIVIL (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -9353,7 +9353,7 @@
     },
     "029": {
         "codigo": "029",
-        "nome": "ANALISTA - ENGENHARIA DE ALIMENTOS(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ENGENHARIA DE ALIMENTOS (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -9687,7 +9687,7 @@
     },
     "030": {
         "codigo": "030",
-        "nome": "ANALISTA - ENGENHARIA DE SEGURANÇA DO TRABALHO(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ENGENHARIA DE SEGURANÇA DO TRABALHO (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -10021,7 +10021,7 @@
     },
     "031": {
         "codigo": "031",
-        "nome": "ANALISTA - ENGENHARIA ELÉTRICA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ENGENHARIA ELÉTRICA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -10355,7 +10355,7 @@
     },
     "032": {
         "codigo": "032",
-        "nome": "ANALISTA - ENGENHARIA MÊCANICA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ENGENHARIA MÊCANICA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -10689,7 +10689,7 @@
     },
     "033": {
         "codigo": "033",
-        "nome": "ANALISTA - ESTATÍSTICA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - ESTATÍSTICA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -11023,7 +11023,7 @@
     },
     "034": {
         "codigo": "034",
-        "nome": "ANALISTA - GESTÃO DO AGRONEGÓCIO(BRASÍLIA - DF)",
+        "nome": "ANALISTA - GESTÃO DO AGRONEGÓCIO (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -11357,7 +11357,7 @@
     },
     "035": {
         "codigo": "035",
-        "nome": "ANALISTA - JORNALISMO(BRASÍLIA - DF)",
+        "nome": "ANALISTA - JORNALISMO (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -11691,7 +11691,7 @@
     },
     "036": {
         "codigo": "036",
-        "nome": "ANALISTA - LETRAS(BRASÍLIA - DF)",
+        "nome": "ANALISTA - LETRAS (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -12025,7 +12025,7 @@
     },
     "037": {
         "codigo": "037",
-        "nome": "ANALISTA - NUTRIÇÃO(BRASÍLIA - DF)",
+        "nome": "ANALISTA - NUTRIÇÃO (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -12359,7 +12359,7 @@
     },
     "038": {
         "codigo": "038",
-        "nome": "ANALISTA - PEDAGOGIA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - PEDAGOGIA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -12693,7 +12693,7 @@
     },
     "039": {
         "codigo": "039",
-        "nome": "ANALISTA - PSICOLOGIA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - PSICOLOGIA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -13027,7 +13027,7 @@
     },
     "040": {
         "codigo": "040",
-        "nome": "ANALISTA - COMUNICAÇÃO SOCIAL/MARKETING(BRASÍLIA - DF)",
+        "nome": "ANALISTA - COMUNICAÇÃO SOCIAL/MARKETING (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -13361,7 +13361,7 @@
     },
     "041": {
         "codigo": "041",
-        "nome": "ANALISTA - TECNOLOGIA DA INFORMAÇÃO - DESENVOLVIMENTO(BRASÍLIA - DF)",
+        "nome": "ANALISTA - TECNOLOGIA DA INFORMAÇÃO - DESENVOLVIMENTO (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -13695,7 +13695,7 @@
     },
     "042": {
         "codigo": "042",
-        "nome": "ANALISTA - TECNOLOGIA DA INFORMAÇÃO - INFRAESTRUTURA(BRASÍLIA - DF)",
+        "nome": "ANALISTA - TECNOLOGIA DA INFORMAÇÃO - INFRAESTRUTURA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -14029,7 +14029,7 @@
     },
     "043": {
         "codigo": "043",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(VITÓRIA - ES)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (VITÓRIA - ES)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -14363,7 +14363,7 @@
     },
     "044": {
         "codigo": "044",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(VITÓRIA - ES)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (VITÓRIA - ES)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -14697,7 +14697,7 @@
     },
     "045": {
         "codigo": "045",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(VITÓRIA - ES)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (VITÓRIA - ES)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -15031,7 +15031,7 @@
     },
     "046": {
         "codigo": "046",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(GOIÂNIA - GO)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (GOIÂNIA - GO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -15365,7 +15365,7 @@
     },
     "047": {
         "codigo": "047",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(GOIÂNIA - GO)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (GOIÂNIA - GO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -15699,7 +15699,7 @@
     },
     "048": {
         "codigo": "048",
-        "nome": "ANALISTA - DIREITO(GOIÂNIA - GO)",
+        "nome": "ANALISTA - DIREITO (GOIÂNIA - GO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -16033,7 +16033,7 @@
     },
     "049": {
         "codigo": "049",
-        "nome": "ANALISTA - ENGENHARIA CIVIL(GOIÂNIA - GO)",
+        "nome": "ANALISTA - ENGENHARIA CIVIL (GOIÂNIA - GO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -16367,7 +16367,7 @@
     },
     "050": {
         "codigo": "050",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(SÃO LUÍS - MA)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (SÃO LUÍS - MA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -16701,7 +16701,7 @@
     },
     "051": {
         "codigo": "051",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(SÃO LUÍS - MA)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (SÃO LUÍS - MA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -17035,7 +17035,7 @@
     },
     "052": {
         "codigo": "052",
-        "nome": "ANALISTA - ECONOMIA(SÃO LUÍS - MA)",
+        "nome": "ANALISTA - ECONOMIA (SÃO LUÍS - MA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -17369,7 +17369,7 @@
     },
     "053": {
         "codigo": "053",
-        "nome": "ANALISTA - ENGENHARIA AGRÍCOLA(SÃO LUÍS - MA)",
+        "nome": "ANALISTA - ENGENHARIA AGRÍCOLA (SÃO LUÍS - MA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -17703,7 +17703,7 @@
     },
     "054": {
         "codigo": "054",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(SÃO LUÍS - MA)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (SÃO LUÍS - MA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -18037,7 +18037,7 @@
     },
     "055": {
         "codigo": "055",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(CUIABÁ - MT)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (CUIABÁ - MT)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -18371,7 +18371,7 @@
     },
     "056": {
         "codigo": "056",
-        "nome": "ANALISTA - DIREITO(CUIABÁ - MT)",
+        "nome": "ANALISTA - DIREITO (CUIABÁ - MT)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -18705,7 +18705,7 @@
     },
     "057": {
         "codigo": "057",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(CUIABÁ - MT)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (CUIABÁ - MT)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -19039,7 +19039,7 @@
     },
     "058": {
         "codigo": "058",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(CAMPO GRANDE - MS)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (CAMPO GRANDE - MS)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -19373,7 +19373,7 @@
     },
     "059": {
         "codigo": "059",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(CAMPO GRANDE - MS)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (CAMPO GRANDE - MS)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -19707,7 +19707,7 @@
     },
     "060": {
         "codigo": "060",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(CAMPO GRANDE - MS)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (CAMPO GRANDE - MS)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -20041,7 +20041,7 @@
     },
     "061": {
         "codigo": "061",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(BELO HORIZONTE - MG)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (BELO HORIZONTE - MG)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -20375,7 +20375,7 @@
     },
     "062": {
         "codigo": "062",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(BELO HORIZONTE - MG)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (BELO HORIZONTE - MG)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -20709,7 +20709,7 @@
     },
     "063": {
         "codigo": "063",
-        "nome": "ANALISTA - DIREITO(BELO HORIZONTE - MG)",
+        "nome": "ANALISTA - DIREITO (BELO HORIZONTE - MG)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -21043,7 +21043,7 @@
     },
     "064": {
         "codigo": "064",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(BELO HORIZONTE - MG)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (BELO HORIZONTE - MG)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -21377,7 +21377,7 @@
     },
     "065": {
         "codigo": "065",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(BELÉM - PA)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (BELÉM - PA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -21711,7 +21711,7 @@
     },
     "066": {
         "codigo": "066",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(BELÉM - PA)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (BELÉM - PA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -22045,7 +22045,7 @@
     },
     "067": {
         "codigo": "067",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(BELÉM - PA)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (BELÉM - PA)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -22379,7 +22379,7 @@
     },
     "068": {
         "codigo": "068",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(JOÃO PESSOA - PB)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (JOÃO PESSOA - PB)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -22713,7 +22713,7 @@
     },
     "069": {
         "codigo": "069",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(JOÃO PESSOA - PB)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (JOÃO PESSOA - PB)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -23047,7 +23047,7 @@
     },
     "070": {
         "codigo": "070",
-        "nome": "ANALISTA - ECONOMIA(JOÃO PESSOA - PB)",
+        "nome": "ANALISTA - ECONOMIA (JOÃO PESSOA - PB)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -23381,7 +23381,7 @@
     },
     "071": {
         "codigo": "071",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(JOÃO PESSOA - PB)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (JOÃO PESSOA - PB)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -23715,7 +23715,7 @@
     },
     "072": {
         "codigo": "072",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(CURITIBA - PR)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (CURITIBA - PR)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -24049,7 +24049,7 @@
     },
     "073": {
         "codigo": "073",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(CURITIBA - PR)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (CURITIBA - PR)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -24383,7 +24383,7 @@
     },
     "074": {
         "codigo": "074",
-        "nome": "ANALISTA - DIREITO(CURITIBA - PR)",
+        "nome": "ANALISTA - DIREITO (CURITIBA - PR)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -24717,7 +24717,7 @@
     },
     "075": {
         "codigo": "075",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(CURITIBA - PR)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (CURITIBA - PR)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -25051,7 +25051,7 @@
     },
     "076": {
         "codigo": "076",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(RECIFE - PE)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (RECIFE - PE)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -25385,7 +25385,7 @@
     },
     "077": {
         "codigo": "077",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(RECIFE - PE)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (RECIFE - PE)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -25719,7 +25719,7 @@
     },
     "078": {
         "codigo": "078",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(TERESINA - PI)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (TERESINA - PI)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -26053,7 +26053,7 @@
     },
     "079": {
         "codigo": "079",
-        "nome": "ANALISTA - ECONOMIA(TERESINA - PI)",
+        "nome": "ANALISTA - ECONOMIA (TERESINA - PI)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -26387,7 +26387,7 @@
     },
     "080": {
         "codigo": "080",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(TERESINA - PI)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (TERESINA - PI)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -26721,7 +26721,7 @@
     },
     "081": {
         "codigo": "081",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(RIO DE JANEIRO - RJ)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (RIO DE JANEIRO - RJ)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -27055,7 +27055,7 @@
     },
     "082": {
         "codigo": "082",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(RIO DE JANEIRO - RJ)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (RIO DE JANEIRO - RJ)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -27389,7 +27389,7 @@
     },
     "083": {
         "codigo": "083",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(RIO DE JANEIRO - RJ)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (RIO DE JANEIRO - RJ)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -27723,7 +27723,7 @@
     },
     "084": {
         "codigo": "084",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(NATAL - RN)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (NATAL - RN)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -28057,7 +28057,7 @@
     },
     "085": {
         "codigo": "085",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(NATAL - RN)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (NATAL - RN)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -28391,7 +28391,7 @@
     },
     "086": {
         "codigo": "086",
-        "nome": "ANALISTA - ECONOMIA(NATAL - RN)",
+        "nome": "ANALISTA - ECONOMIA (NATAL - RN)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -28725,7 +28725,7 @@
     },
     "087": {
         "codigo": "087",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(NATAL - RN)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (NATAL - RN)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -29059,7 +29059,7 @@
     },
     "088": {
         "codigo": "088",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(PORTO ALEGRE - RS)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (PORTO ALEGRE - RS)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -29393,7 +29393,7 @@
     },
     "089": {
         "codigo": "089",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(PORTO ALEGRE - RS)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (PORTO ALEGRE - RS)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -29727,7 +29727,7 @@
     },
     "090": {
         "codigo": "090",
-        "nome": "ANALISTA - ECONOMIA(PORTO ALEGRE - RS)",
+        "nome": "ANALISTA - ECONOMIA (PORTO ALEGRE - RS)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -30061,7 +30061,7 @@
     },
     "091": {
         "codigo": "091",
-        "nome": "ANALISTA - ENGENHARIA AGRÍCOLA(PORTO ALEGRE - RS)",
+        "nome": "ANALISTA - ENGENHARIA AGRÍCOLA (PORTO ALEGRE - RS)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -30395,7 +30395,7 @@
     },
     "092": {
         "codigo": "092",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(PORTO ALEGRE - RS)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (PORTO ALEGRE - RS)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -30729,7 +30729,7 @@
     },
     "093": {
         "codigo": "093",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(PORTO VELHO - RO)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (PORTO VELHO - RO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -31063,7 +31063,7 @@
     },
     "094": {
         "codigo": "094",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(PORTO VELHO - RO)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (PORTO VELHO - RO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -31397,7 +31397,7 @@
     },
     "095": {
         "codigo": "095",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(PORTO VELHO - RO)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (PORTO VELHO - RO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -31731,7 +31731,7 @@
     },
     "096": {
         "codigo": "096",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(BOA VISTA - RR)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (BOA VISTA - RR)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -32065,7 +32065,7 @@
     },
     "097": {
         "codigo": "097",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(BOA VISTA - RR)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (BOA VISTA - RR)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -32399,7 +32399,7 @@
     },
     "099": {
         "codigo": "099",
-        "nome": "ANALISTA - ECONOMIA(BOA VISTA - RR)",
+        "nome": "ANALISTA - ECONOMIA (BOA VISTA - RR)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -32733,7 +32733,7 @@
     },
     "100": {
         "codigo": "100",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(BOA VISTA - RR)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (BOA VISTA - RR)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -33067,7 +33067,7 @@
     },
     "101": {
         "codigo": "101",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(FLORIANÓPOLIS - SC)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (FLORIANÓPOLIS - SC)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -33401,7 +33401,7 @@
     },
     "102": {
         "codigo": "102",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(FLORIANÓPOLIS - SC)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (FLORIANÓPOLIS - SC)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -33735,7 +33735,7 @@
     },
     "103": {
         "codigo": "103",
-        "nome": "ANALISTA - ECONOMIA(FLORIANÓPOLIS - SC)",
+        "nome": "ANALISTA - ECONOMIA (FLORIANÓPOLIS - SC)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -34069,7 +34069,7 @@
     },
     "104": {
         "codigo": "104",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(FLORIANÓPOLIS - SC)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (FLORIANÓPOLIS - SC)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -34403,7 +34403,7 @@
     },
     "105": {
         "codigo": "105",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(SÃO PAULO - SP)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (SÃO PAULO - SP)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -34737,7 +34737,7 @@
     },
     "106": {
         "codigo": "106",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(SÃO PAULO - SP)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (SÃO PAULO - SP)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -35071,7 +35071,7 @@
     },
     "107": {
         "codigo": "107",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(SÃO PAULO - SP)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (SÃO PAULO - SP)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -35405,7 +35405,7 @@
     },
     "108": {
         "codigo": "108",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(ARACAJU - SE)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (ARACAJU - SE)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -35739,7 +35739,7 @@
     },
     "109": {
         "codigo": "109",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(ARACAJU - SE)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (ARACAJU - SE)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -36073,7 +36073,7 @@
     },
     "110": {
         "codigo": "110",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(ARACAJU - SE)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (ARACAJU - SE)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -36407,7 +36407,7 @@
     },
     "111": {
         "codigo": "111",
-        "nome": "ANALISTA - ADMINISTRAÇÃO(PALMAS - TO)",
+        "nome": "ANALISTA - ADMINISTRAÇÃO (PALMAS - TO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -36741,7 +36741,7 @@
     },
     "112": {
         "codigo": "112",
-        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS(PALMAS - TO)",
+        "nome": "ANALISTA - CIÊNCIAS CONTÁBEIS (PALMAS - TO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -37075,7 +37075,7 @@
     },
     "113": {
         "codigo": "113",
-        "nome": "ANALISTA - DIREITO(PALMAS - TO)",
+        "nome": "ANALISTA - DIREITO (PALMAS - TO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -37409,7 +37409,7 @@
     },
     "114": {
         "codigo": "114",
-        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA(PALMAS - TO)",
+        "nome": "ANALISTA - ENGENHARIA AGRONÔMICA (PALMAS - TO)",
         "provas": {
             "1": {
                 "1": "Anulada",
@@ -37743,7 +37743,7 @@
     },
     "115": {
         "codigo": "115",
-        "nome": "ASSISTENTE ADMINISTRATIVO(RIO BRANCO - AC)",
+        "nome": "ASSISTENTE ADMINISTRATIVO (RIO BRANCO - AC)",
         "provas": {
             "1": {
                 "1": "D",
@@ -38157,7 +38157,7 @@
     },
     "116": {
         "codigo": "116",
-        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA(MACEIÓ - AL)",
+        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA (MACEIÓ - AL)",
         "provas": {
             "1": {
                 "1": "D",
@@ -38571,7 +38571,7 @@
     },
     "117": {
         "codigo": "117",
-        "nome": "ASSISTENTE - TI(MANAUS - AM)",
+        "nome": "ASSISTENTE - TI (MANAUS - AM)",
         "provas": {
             "1": {
                 "1": "D",
@@ -38985,7 +38985,7 @@
     },
     "118": {
         "codigo": "118",
-        "nome": "ASSISTENTE ADMINISTRATIVO(SALVADOR - BA)",
+        "nome": "ASSISTENTE ADMINISTRATIVO (SALVADOR - BA)",
         "provas": {
             "1": {
                 "1": "D",
@@ -39399,7 +39399,7 @@
     },
     "119": {
         "codigo": "119",
-        "nome": "ASSISTENTE - CONTABILIDADE(SALVADOR - BA)",
+        "nome": "ASSISTENTE - CONTABILIDADE (SALVADOR - BA)",
         "provas": {
             "1": {
                 "1": "D",
@@ -39813,7 +39813,7 @@
     },
     "120": {
         "codigo": "120",
-        "nome": "ASSISTENTE ADMINISTRATIVO(FORTALEZA - CE)",
+        "nome": "ASSISTENTE ADMINISTRATIVO (FORTALEZA - CE)",
         "provas": {
             "1": {
                 "1": "D",
@@ -40227,7 +40227,7 @@
     },
     "121": {
         "codigo": "121",
-        "nome": "ASSISTENTE - TI(FORTALEZA - CE)",
+        "nome": "ASSISTENTE - TI (FORTALEZA - CE)",
         "provas": {
             "1": {
                 "1": "D",
@@ -40641,7 +40641,7 @@
     },
     "122": {
         "codigo": "122",
-        "nome": "ASSISTENTE ADMINISTRATIVO(BRASÍLIA - DF)",
+        "nome": "ASSISTENTE ADMINISTRATIVO (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "D",
@@ -41055,7 +41055,7 @@
     },
     "123": {
         "codigo": "123",
-        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA(BRASÍLIA - DF)",
+        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA (BRASÍLIA - DF)",
         "provas": {
             "1": {
                 "1": "D",
@@ -41469,7 +41469,7 @@
     },
     "124": {
         "codigo": "124",
-        "nome": "ASSISTENTE - TI(VITORIA - ES)",
+        "nome": "ASSISTENTE - TI (VITORIA - ES)",
         "provas": {
             "1": {
                 "1": "D",
@@ -41883,7 +41883,7 @@
     },
     "125": {
         "codigo": "125",
-        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA(SÃO LUÍS  - MA)",
+        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA (SÃO LUÍS  - MA)",
         "provas": {
             "1": {
                 "1": "D",
@@ -42297,7 +42297,7 @@
     },
     "126": {
         "codigo": "126",
-        "nome": "ASSISTENTE - CONTABILIDADE(CUIABÁ - MT)",
+        "nome": "ASSISTENTE - CONTABILIDADE (CUIABÁ - MT)",
         "provas": {
             "1": {
                 "1": "D",
@@ -42711,7 +42711,7 @@
     },
     "127": {
         "codigo": "127",
-        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA(CUIABÁ - MT)",
+        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA (CUIABÁ - MT)",
         "provas": {
             "1": {
                 "1": "D",
@@ -43125,7 +43125,7 @@
     },
     "128": {
         "codigo": "128",
-        "nome": "ASSISTENTE ADMINISTRATIVO(CAMPO GRANDE - MS)",
+        "nome": "ASSISTENTE ADMINISTRATIVO (CAMPO GRANDE - MS)",
         "provas": {
             "1": {
                 "1": "D",
@@ -43539,7 +43539,7 @@
     },
     "129": {
         "codigo": "129",
-        "nome": "ASSISTENTE - TI(BELO HORIZONTE - MG)",
+        "nome": "ASSISTENTE - TI (BELO HORIZONTE - MG)",
         "provas": {
             "1": {
                 "1": "D",
@@ -43953,7 +43953,7 @@
     },
     "130": {
         "codigo": "130",
-        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA(BELO HORIZONTE - MG)",
+        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA (BELO HORIZONTE - MG)",
         "provas": {
             "1": {
                 "1": "D",
@@ -44367,7 +44367,7 @@
     },
     "131": {
         "codigo": "131",
-        "nome": "ASSISTENTE ADMINISTRATIVO(JOÃO PESSOA - PB)",
+        "nome": "ASSISTENTE ADMINISTRATIVO (JOÃO PESSOA - PB)",
         "provas": {
             "1": {
                 "1": "D",
@@ -44781,7 +44781,7 @@
     },
     "132": {
         "codigo": "132",
-        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA(CURITIBA - PR)",
+        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA (CURITIBA - PR)",
         "provas": {
             "1": {
                 "1": "D",
@@ -45195,7 +45195,7 @@
     },
     "133": {
         "codigo": "133",
-        "nome": "ASSISTENTE ADMINISTRATIVO(TERESINA - PI)",
+        "nome": "ASSISTENTE ADMINISTRATIVO (TERESINA - PI)",
         "provas": {
             "1": {
                 "1": "D",
@@ -45609,7 +45609,7 @@
     },
     "134": {
         "codigo": "134",
-        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA(NATAL - RN)",
+        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA (NATAL - RN)",
         "provas": {
             "1": {
                 "1": "D",
@@ -46023,7 +46023,7 @@
     },
     "135": {
         "codigo": "135",
-        "nome": "ASSISTENTE - TI(PORTO ALEGRE - RS)",
+        "nome": "ASSISTENTE - TI (PORTO ALEGRE - RS)",
         "provas": {
             "1": {
                 "1": "D",
@@ -46437,7 +46437,7 @@
     },
     "136": {
         "codigo": "136",
-        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA(PORTO VELHO - RO)",
+        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA (PORTO VELHO - RO)",
         "provas": {
             "1": {
                 "1": "D",
@@ -46851,7 +46851,7 @@
     },
     "137": {
         "codigo": "137",
-        "nome": "ASSISTENTE - TI(BOA VISTA - RR)",
+        "nome": "ASSISTENTE - TI (BOA VISTA - RR)",
         "provas": {
             "1": {
                 "1": "D",
@@ -47265,7 +47265,7 @@
     },
     "138": {
         "codigo": "138",
-        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA(FLORIANÓPOLIS - SC)",
+        "nome": "ASSISTENTE - OPERAÇÕES/TÉCNICO AGRÍCOLA (FLORIANÓPOLIS - SC)",
         "provas": {
             "1": {
                 "1": "D",
@@ -47679,7 +47679,7 @@
     },
     "139": {
         "codigo": "139",
-        "nome": "ASSISTENTE ADMINISTRATIVO(SÃO PAULO - SP)",
+        "nome": "ASSISTENTE ADMINISTRATIVO (SÃO PAULO - SP)",
         "provas": {
             "1": {
                 "1": "D",
@@ -48093,7 +48093,7 @@
     },
     "140": {
         "codigo": "140",
-        "nome": "ASSISTENTE ADMINISTRATIVO(ARACAJU - SE)",
+        "nome": "ASSISTENTE ADMINISTRATIVO (ARACAJU - SE)",
         "provas": {
             "1": {
                 "1": "D",
