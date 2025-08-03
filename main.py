@@ -131,15 +131,38 @@ def determinar_tipo_cargo(nome_cargo: str, codigo_cargo: str = "", cargos_dict: 
     # Normalizar nome para comparação
     nome_normalizado = unidecode(nome_cargo.upper().replace(".", "").strip())
     
-    # Lógica de determinação baseada no nome
-    # Primeiro verificar TI (mais específico)
-    if any(termo in nome_normalizado for termo in ["TECNOLOGIA DA INFORMACAO", "TECNOLOGIA DE INFORMACAO", "TI"]):
+    # Lógica de determinação baseada no nome - CORRIGIDA
+    # Verificar TI de forma mais específica para evitar falsos positivos
+    termos_ti = [
+        "TECNOLOGIA DA INFORMACAO", 
+        "TECNOLOGIA DE INFORMACAO",
+        "ANALISTA DE TECNOLOGIA",
+        "ASSISTENTE DE TECNOLOGIA",
+        "ANALISTA - TECNOLOGIA",
+        "ASSISTENTE - TECNOLOGIA"
+    ]
+    
+    # Verificar se é realmente um cargo de TI (não apenas contém "TI")
+    eh_cargo_ti = any(termo in nome_normalizado for termo in termos_ti)
+    
+    # Verificar se termina com " TI" ou contém "TI)" para casos específicos
+    if not eh_cargo_ti:
+        # Verificar padrões mais específicos como "ANALISTA (TI)" ou "CARGO - TI"
+        eh_cargo_ti = (
+            nome_normalizado.endswith(" TI") or 
+            "TI)" in nome_normalizado or
+            "- TI" in nome_normalizado or
+            "(TI" in nome_normalizado
+        )
+    
+    # Determinar o tipo baseado no nível e área
+    if eh_cargo_ti:
         if "ANALISTA" in nome_normalizado:
             return "ANALISTA_TI"
         elif "ASSISTENTE" in nome_normalizado:
             return "ASSISTENTE_TI"
     
-    # Depois verificar nível (ANALISTA vs ASSISTENTE)
+    # Para cargos não-TI
     if "ANALISTA" in nome_normalizado:
         return "ANALISTA_COMUM"
     elif "ASSISTENTE" in nome_normalizado:
